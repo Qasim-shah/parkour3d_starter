@@ -1,0 +1,19 @@
+{
+  "name": "parkour-game",
+  "version": "1.0.0",
+  "description": "A 3D parkour game playable as a web app.",
+  "main": "src/scripts/game.ts",
+  "scripts": {
+    "start": "lite-server",
+    "build": "tsc"
+  },
+  "dependencies": {
+    "three": "^0.132.2"
+  },
+  "devDependencies": {
+    "typescript": "^4.5.4",
+    "lite-server": "^2.6.1"
+  },
+  "author": "Your Name",
+  "license": "MIT"
+}
